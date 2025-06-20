@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me : jotshnatulasi@gmail.com
 - 😄 Pronouns: JOSH
-- ⚡ Fun fact: Capable of wasting a day by thinking.
+- ⚡ Fun fact: Capable of wasting a day by coding.
 
 <!---
 jotshna123/jotshna123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
